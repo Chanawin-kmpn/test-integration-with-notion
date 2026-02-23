@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
 	return (
 		<>
-			<div>Hello</div>
+			<div>Hello Welcome to Softnetics</div>
 		</>
 	);
 }
